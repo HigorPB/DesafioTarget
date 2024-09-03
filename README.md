@@ -1,4 +1,4 @@
 # DesafioTarget
-Desafio feito no processo seletivo da empresa Target
+Desafio feito no processo seletivo da Target
 
 Projetos feitos em Java
